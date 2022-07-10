@@ -1,0 +1,3 @@
+﻿  MineMap.cpp
+S:\Qt\Code\Mine-Sweep\MineMap.cpp(27,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Mine-Sweep.vcxproj -> S:\Qt\Code\Mine-Sweep\debug\Mine-Sweep.exe
